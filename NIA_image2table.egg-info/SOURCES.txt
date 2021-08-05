@@ -1,0 +1,14 @@
+README.md
+setup.cfg
+setup.py
+NIA_image2table.egg-info/PKG-INFO
+NIA_image2table.egg-info/SOURCES.txt
+NIA_image2table.egg-info/dependency_links.txt
+NIA_image2table.egg-info/not-zip-safe
+NIA_image2table.egg-info/requires.txt
+NIA_image2table.egg-info/top_level.txt
+cells_detection/__init__.py
+demo/__init__.py
+ocr_image/__Init__.py
+ocr_to_csv/__init__.py
+tables_detection/__Init__.py
